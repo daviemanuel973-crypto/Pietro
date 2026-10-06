@@ -1,0 +1,6 @@
+{
+  "name": "VoxFrame Studio",
+  "description": "Mobile recording and production studio: vocal recording, multitrack mixing, visual covers, and lyric video generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
